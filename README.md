@@ -7,7 +7,7 @@ nesse projeto!
 Além de mais programadores (pois só eu estou programando) preciso também de pessoas que tem conhecimento em animação 3D e Modelagem.
 
 
-Oque já foi feito ?
+#Oque já foi feito ?
 
 
 1 - Usuario pode criar seu servidor
@@ -19,9 +19,9 @@ Oque já foi feito ?
 4 - Armas que o usuario utiliza são equipadas em tempo de execução (Espada e Escudo)
 
 5 - Somente 1 personagem disponivel.
---------------------------------------------------------------
 
-Oque está em desenvolvimento ?
+
+#Oque está em desenvolvimento ?
 
 1 - Criar UI de HP
 
