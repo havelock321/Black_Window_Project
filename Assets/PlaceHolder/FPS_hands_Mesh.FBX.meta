@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 6b8d6fa1a0012624bb55f65b8226e3dd
+timeCreated: 1485135455
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001-R-Hand
+    100002: Bip002-L-Clavicle
+    100004: Bip002-L-Finger0
+    100006: Bip002-L-Finger01
+    100008: Bip002-L-Finger02
+    100010: Bip002-L-Finger1
+    100012: Bip002-L-Finger11
+    100014: Bip002-L-Finger12
+    100016: Bip002-L-Finger2
+    100018: Bip002-L-Finger21
+    100020: Bip002-L-Finger22
+    100022: Bip002-L-Finger3
+    100024: Bip002-L-Finger31
+    100026: Bip002-L-Finger32
+    100028: Bip002-L-Finger4
+    100030: Bip002-L-Finger41
+    100032: Bip002-L-Finger42
+    100034: Bip002-L-Forearm
+    100036: Bip002-L-ForeTwist
+    100038: Bip002-L-Hand
+    100040: Bip002-L-UpperArm
+    100042: Bip002-R-Clavicle
+    100044: Bip002-R-Finger0
+    100046: Bip002-R-Finger01
+    100048: Bip002-R-Finger02
+    100050: Bip002-R-Finger1
+    100052: Bip002-R-Finger11
+    100054: Bip002-R-Finger12
+    100056: Bip002-R-Finger2
+    100058: Bip002-R-Finger21
+    100060: Bip002-R-Finger22
+    100062: Bip002-R-Finger3
+    100064: Bip002-R-Finger31
+    100066: Bip002-R-Finger32
+    100068: Bip002-R-Finger4
+    100070: Bip002-R-Finger41
+    100072: Bip002-R-Finger42
+    100074: Bip002-R-Forearm
+    100076: Bip002-R-ForeTwist
+    100078: Bip002-R-UpperArm
+    100080: bone-L-ForeTwist
+    100082: bone-R-ForeTwist
+    100084: bone001-L-Finger01-mid
+    100086: bone001-L-Finger02-mid
+    100088: bone001-L-Finger1-mid
+    100090: bone001-L-Finger11-mid
+    100092: bone001-L-Finger2-mid
+    100094: bone001-L-Finger21-mid
+    100096: bone001-L-Finger3-mid
+    100098: bone001-L-Finger31-mid
+    100100: bone001-L-Finger4-mid
+    100102: bone001-L-Finger41-mid
+    100104: bone001-R-Finger01-mid
+    100106: bone001-R-Finger02-mid
+    100108: bone001-R-Finger1-mid
+    100110: bone001-R-Finger11-mid
+    100112: bone001-R-Finger2-mid
+    100114: bone001-R-Finger21-mid
+    100116: bone001-R-Finger3-mid
+    100118: bone001-R-Finger31-mid
+    100120: bone001-R-Finger4-mid
+    100122: bone001-R-Finger41-mid
+    100124: //RootNode
+    100126: FPS_mesh
+    400000: Bip001-R-Hand
+    400002: Bip002-L-Clavicle
+    400004: Bip002-L-Finger0
+    400006: Bip002-L-Finger01
+    400008: Bip002-L-Finger02
+    400010: Bip002-L-Finger1
+    400012: Bip002-L-Finger11
+    400014: Bip002-L-Finger12
+    400016: Bip002-L-Finger2
+    400018: Bip002-L-Finger21
+    400020: Bip002-L-Finger22
+    400022: Bip002-L-Finger3
+    400024: Bip002-L-Finger31
+    400026: Bip002-L-Finger32
+    400028: Bip002-L-Finger4
+    400030: Bip002-L-Finger41
+    400032: Bip002-L-Finger42
+    400034: Bip002-L-Forearm
+    400036: Bip002-L-ForeTwist
+    400038: Bip002-L-Hand
+    400040: Bip002-L-UpperArm
+    400042: Bip002-R-Clavicle
+    400044: Bip002-R-Finger0
+    400046: Bip002-R-Finger01
+    400048: Bip002-R-Finger02
+    400050: Bip002-R-Finger1
+    400052: Bip002-R-Finger11
+    400054: Bip002-R-Finger12
+    400056: Bip002-R-Finger2
+    400058: Bip002-R-Finger21
+    400060: Bip002-R-Finger22
+    400062: Bip002-R-Finger3
+    400064: Bip002-R-Finger31
+    400066: Bip002-R-Finger32
+    400068: Bip002-R-Finger4
+    400070: Bip002-R-Finger41
+    400072: Bip002-R-Finger42
+    400074: Bip002-R-Forearm
+    400076: Bip002-R-ForeTwist
+    400078: Bip002-R-UpperArm
+    400080: bone-L-ForeTwist
+    400082: bone-R-ForeTwist
+    400084: bone001-L-Finger01-mid
+    400086: bone001-L-Finger02-mid
+    400088: bone001-L-Finger1-mid
+    400090: bone001-L-Finger11-mid
+    400092: bone001-L-Finger2-mid
+    400094: bone001-L-Finger21-mid
+    400096: bone001-L-Finger3-mid
+    400098: bone001-L-Finger31-mid
+    400100: bone001-L-Finger4-mid
+    400102: bone001-L-Finger41-mid
+    400104: bone001-R-Finger01-mid
+    400106: bone001-R-Finger02-mid
+    400108: bone001-R-Finger1-mid
+    400110: bone001-R-Finger11-mid
+    400112: bone001-R-Finger2-mid
+    400114: bone001-R-Finger21-mid
+    400116: bone001-R-Finger3-mid
+    400118: bone001-R-Finger31-mid
+    400120: bone001-R-Finger4-mid
+    400122: bone001-R-Finger41-mid
+    400124: //RootNode
+    400126: FPS_mesh
+    2300000: FPS_mesh
+    3300000: FPS_mesh
+    4300000: FPS_mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
